@@ -1,5 +1,6 @@
 # patchapps.com
-a website for the patchapps org
+
+a simple authication website for the patchapps org
 
 ## Installation and Development environment
 
