@@ -7,7 +7,7 @@
     "email": "jaryan@gmail.com"
   }],
   "scripts": {
-    "start": "bash scripts/start.sh"
+    "start": "bash scripts/start_prod.sh"
   },
   "dependencies" : {
     "express" : "~4.0.0",

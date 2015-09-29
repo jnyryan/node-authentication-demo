@@ -1,7 +1,11 @@
 #!/bin/bash
 
 export NODE_ENV=dev
-export DATABASE_CONNECTION=mongodb://localhost:27017/patchapps
-#export DATABASE_CONNECTION_2=mongodb://<user>:<pass>@localhost:27017/patchapps
+export PORT=8901
+export DATABASE_CONNECTION="test:password@ds041563.mongolab.com:41563/patchapps_db"
+export GOOGLE_CLIENTID=""
+export GOOGLE_CLIENT_SECRET=""
+export GOOGLE_CALLBACK_URL=""
+
 
 node web/server.js
