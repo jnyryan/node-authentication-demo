@@ -1,6 +1,10 @@
-# patchapps.com
+# node-authentication-demo
 
-a simple authication website for the patchapps org
+a nodejs website with authentication for local account, google, facebook and twitter
+
+## Live Demo
+
+See a live demo hosted on Heroku on (node-authentication-demo.herokuapp.com)[https://node-authentication-demo.herokuapp.com]
 
 ## Installation and Development environment
 
