@@ -17,3 +17,7 @@ vagrant up --provider=virtualbox
 [Nginx configuration](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 
 [Node authentication](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+
+[Google Console to create OAuth Tokens](https://console.developers.google.com)
+
+[Twitter Apps to create Oauth Tokens](https://apps.twitter.com/)
